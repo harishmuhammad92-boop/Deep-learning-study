@@ -6,3 +6,6 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 ## 📂 Tutorial Contents with TensorFlow & keras
 * TensorFlow Quick start for beginner → [Open Notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Tensorflow_starter_for_beginner.ipynb)
 * Basic image classification - Fashion MNIST dataset → [Open Notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
+
+**Computer vision**
+* CNN - CIFAR10 → [Open Notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR_10.ipynb)
